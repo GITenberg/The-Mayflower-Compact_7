@@ -1,0 +1,19 @@
+_repo: The-Mayflower-Compact_7
+_version: 0.0.1
+description: ''
+gutenberg_issued: '1977-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mayflower Compact (1620)'
+- !lcsh 'Massachusetts -- History -- New Plymouth, 1620-1691 -- Sources'
+- !lcsh 'Pilgrims (New Plymouth Colony)'
+- !lcc 'F001'
+- GITenberg
+title: The Mayflower Compact
+url: http://www.gutenberg.org/ebooks/7
